@@ -1,0 +1,8 @@
+Minha apresentação 
+Ola! Meu nome é Enzo. Sou estudante do SENAI e estou aprendendo sobre tecnologia e desenvolvimento web.
+
+tenho interesse em aprender coisas novas, desenvolver minhas habilidades e conhecer mais sobre programação. 
+
+Meu objetivo é adquirir conhecimento e aprender a criar meus próprios projetos.
+ 
+.Estou aprendendo Git e GitHub
